@@ -1,0 +1,60 @@
+html {
+	position: relative;
+
+
+}
+  
+body {
+	margin-bottom: 100px; 
+	margin-top: 30px; 
+}
+.jumbotron img {
+	width:  200px;
+	border: 2px solid #000;
+	 
+}
+.jumbotron {
+	background-image: url(../img/1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -100px;
+	color: #222;
+
+}
+ 
+ hr {
+	width: 250px;
+	border-top: 3px solid #000;   
+}
+
+section {
+	min-height: 600px;
+}
+
+.portpolio {
+	background-color: #000; 
+}
+
+footer {
+	 position: absolute;
+	 bottom: 0;
+	 width: 100%;
+	 height: 100px;
+	 background-color:#333; 
+
+}
+
+footer p{
+	color: #aaa;
+	font-size:0.9em; 
+
+
+}
+
+footer p i{
+	color: salmon;
+}
+
+.contact {
+	min-height: 800px;
+}
